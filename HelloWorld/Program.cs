@@ -9,8 +9,8 @@ namespace HelloWorld
   {
     static void Main(string[] args)
     {
-      Console.Write("Hello World\n");
-      Console.Write("Meu nome é Murilo Nascimento\n");
+      var minhaVariavel = "Hello World - Murilo Nascimento";
+      Console.WriteLine(minhaVariavel);
       Console.ReadLine();
     }
   }
