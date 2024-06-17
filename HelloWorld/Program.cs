@@ -61,6 +61,64 @@ namespace HelloWorld
 
       Console.WriteLine(songLyrics.EndsWith("hello"));
       Console.WriteLine(songLyrics.EndsWith("goodbye"));
+
+      // Matemática dos inteiros
+      int a = 18;
+      int b = 6;
+      int c = a + b;
+      Console.WriteLine(c);
+      c = a - b;
+      Console.WriteLine(c);
+      c = a * b;
+      Console.WriteLine(c);
+      c = a / b;
+      Console.WriteLine(c);
+
+      // Ordem das operações
+      a = 5;
+      b = 4;
+      c = 2;
+      int d = a + b * c;
+      Console.WriteLine(d);
+      d = (a + b) * c;
+      Console.WriteLine(d);
+      d = (a + b) - 6 * c + (12 * 4) / 3 + 12;
+      Console.WriteLine(d);
+      d = (a + b) / c;
+      Console.WriteLine(d);
+
+      // Precisão de inteiros e limites
+      a = 7;
+      b = 4;
+      c = 3;
+      d = (a + b) / c;
+      int e = (a + b) % c;
+      Console.WriteLine($"quotient: {d}");
+      Console.WriteLine($"remainder: {e}");
+
+      int max = int.MaxValue;
+      int min = int.MinValue;
+      Console.WriteLine($"The range of integers is {min} to {max}");
+
+      int what = max + 3;
+      Console.WriteLine($"An example of overflow: {what}");
+
+      // Tipo double
+      double ad = 5;
+      double bd = 4;
+      double cd = 2;
+      double dd = (ad + bd) / cd;
+      Console.WriteLine(dd);
+
+      ad = 19;
+      bd = 23;
+      cd = 8;
+      dd = (ad + bd) / cd;
+      Console.WriteLine(dd);
+
+      double maxd = double.MaxValue;
+      double mind = double.MinValue;
+      Console.WriteLine($"The range of double is {mind} to {maxd}");
     }
   }
 }
