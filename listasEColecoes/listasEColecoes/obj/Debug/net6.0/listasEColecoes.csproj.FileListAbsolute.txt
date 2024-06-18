@@ -1,0 +1,5 @@
+/home/murilonicemento/Projects/c-sharp-course/listasEColecoes/listasEColecoes/obj/Debug/net6.0/listasEColecoes.csproj.AssemblyReference.cache
+/home/murilonicemento/Projects/c-sharp-course/listasEColecoes/listasEColecoes/obj/Debug/net6.0/listasEColecoes.GeneratedMSBuildEditorConfig.editorconfig
+/home/murilonicemento/Projects/c-sharp-course/listasEColecoes/listasEColecoes/obj/Debug/net6.0/listasEColecoes.AssemblyInfoInputs.cache
+/home/murilonicemento/Projects/c-sharp-course/listasEColecoes/listasEColecoes/obj/Debug/net6.0/listasEColecoes.AssemblyInfo.cs
+/home/murilonicemento/Projects/c-sharp-course/listasEColecoes/listasEColecoes/obj/Debug/net6.0/listasEColecoes.csproj.CoreCompileInputs.cache
