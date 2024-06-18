@@ -1,0 +1,15 @@
+/home/murilonicemento/Projects/c-sharp-course/loopsEBranches/loopsEBranches/bin/Debug/net6.0/loopsEBranches
+/home/murilonicemento/Projects/c-sharp-course/loopsEBranches/loopsEBranches/bin/Debug/net6.0/loopsEBranches.deps.json
+/home/murilonicemento/Projects/c-sharp-course/loopsEBranches/loopsEBranches/bin/Debug/net6.0/loopsEBranches.runtimeconfig.json
+/home/murilonicemento/Projects/c-sharp-course/loopsEBranches/loopsEBranches/bin/Debug/net6.0/loopsEBranches.dll
+/home/murilonicemento/Projects/c-sharp-course/loopsEBranches/loopsEBranches/bin/Debug/net6.0/ref/loopsEBranches.dll
+/home/murilonicemento/Projects/c-sharp-course/loopsEBranches/loopsEBranches/bin/Debug/net6.0/loopsEBranches.pdb
+/home/murilonicemento/Projects/c-sharp-course/loopsEBranches/loopsEBranches/obj/Debug/net6.0/loopsEBranches.csproj.AssemblyReference.cache
+/home/murilonicemento/Projects/c-sharp-course/loopsEBranches/loopsEBranches/obj/Debug/net6.0/loopsEBranches.GeneratedMSBuildEditorConfig.editorconfig
+/home/murilonicemento/Projects/c-sharp-course/loopsEBranches/loopsEBranches/obj/Debug/net6.0/loopsEBranches.AssemblyInfoInputs.cache
+/home/murilonicemento/Projects/c-sharp-course/loopsEBranches/loopsEBranches/obj/Debug/net6.0/loopsEBranches.AssemblyInfo.cs
+/home/murilonicemento/Projects/c-sharp-course/loopsEBranches/loopsEBranches/obj/Debug/net6.0/loopsEBranches.csproj.CoreCompileInputs.cache
+/home/murilonicemento/Projects/c-sharp-course/loopsEBranches/loopsEBranches/obj/Debug/net6.0/loopsEBranches.dll
+/home/murilonicemento/Projects/c-sharp-course/loopsEBranches/loopsEBranches/obj/Debug/net6.0/ref/loopsEBranches.dll
+/home/murilonicemento/Projects/c-sharp-course/loopsEBranches/loopsEBranches/obj/Debug/net6.0/loopsEBranches.pdb
+/home/murilonicemento/Projects/c-sharp-course/loopsEBranches/loopsEBranches/obj/Debug/net6.0/loopsEBranches.genruntimeconfig.cache

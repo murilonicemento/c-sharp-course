@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loopsEBranches", "loopsEBranches\loopsEBranches.csproj", "{CADB6A14-2EBA-44F7-B85E-FA2F5C4E0B0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CADB6A14-2EBA-44F7-B85E-FA2F5C4E0B0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CADB6A14-2EBA-44F7-B85E-FA2F5C4E0B0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CADB6A14-2EBA-44F7-B85E-FA2F5C4E0B0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CADB6A14-2EBA-44F7-B85E-FA2F5C4E0B0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
