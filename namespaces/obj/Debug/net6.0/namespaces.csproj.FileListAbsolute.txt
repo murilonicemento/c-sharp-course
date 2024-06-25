@@ -1,0 +1,15 @@
+/home/murilonicemento/Projects/c-sharp-course/namespaces/obj/Debug/net6.0/namespaces.csproj.AssemblyReference.cache
+/home/murilonicemento/Projects/c-sharp-course/namespaces/obj/Debug/net6.0/namespaces.GeneratedMSBuildEditorConfig.editorconfig
+/home/murilonicemento/Projects/c-sharp-course/namespaces/obj/Debug/net6.0/namespaces.AssemblyInfoInputs.cache
+/home/murilonicemento/Projects/c-sharp-course/namespaces/obj/Debug/net6.0/namespaces.AssemblyInfo.cs
+/home/murilonicemento/Projects/c-sharp-course/namespaces/obj/Debug/net6.0/namespaces.csproj.CoreCompileInputs.cache
+/home/murilonicemento/Projects/c-sharp-course/namespaces/bin/Debug/net6.0/namespaces
+/home/murilonicemento/Projects/c-sharp-course/namespaces/bin/Debug/net6.0/namespaces.deps.json
+/home/murilonicemento/Projects/c-sharp-course/namespaces/bin/Debug/net6.0/namespaces.runtimeconfig.json
+/home/murilonicemento/Projects/c-sharp-course/namespaces/bin/Debug/net6.0/namespaces.dll
+/home/murilonicemento/Projects/c-sharp-course/namespaces/bin/Debug/net6.0/ref/namespaces.dll
+/home/murilonicemento/Projects/c-sharp-course/namespaces/bin/Debug/net6.0/namespaces.pdb
+/home/murilonicemento/Projects/c-sharp-course/namespaces/obj/Debug/net6.0/namespaces.dll
+/home/murilonicemento/Projects/c-sharp-course/namespaces/obj/Debug/net6.0/ref/namespaces.dll
+/home/murilonicemento/Projects/c-sharp-course/namespaces/obj/Debug/net6.0/namespaces.pdb
+/home/murilonicemento/Projects/c-sharp-course/namespaces/obj/Debug/net6.0/namespaces.genruntimeconfig.cache
